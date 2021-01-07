@@ -1,0 +1,7 @@
+@mixin block {
+  padding:1rem;
+}
+
+@mixin borderRadius($radio) {
+  border-radius: $radio;
+}

@@ -1,0 +1,10 @@
+@import '../../styles/partials/mixins';
+
+input{
+    @include borderRadius(1rem);
+    padding: 0.3rem;
+}
+
+input:focus{
+    outline: none;
+}

@@ -1,0 +1,26 @@
+@import '../../styles/partials/mixins';
+
+table {
+    width: 100%;
+    margin-top: 0.5rem;
+    border-spacing: 0px;
+}
+
+thead {
+    background-color: #cccccc;
+}
+
+tbody tr:nth-child(even) {
+    background: #ececec
+}
+
+tbody tr:nth-child(odd) {
+    background: #FFF
+}
+
+th, td {
+    padding: 0.5rem;
+    border: 1px solid black;
+}
+
+

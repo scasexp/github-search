@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`MatchSnap 1`] = `
+<table>
+  <thead>
+    <tr>
+      <th>
+        Nombre Repositorio
+      </th>
+      <th>
+        Url
+      </th>
+    </tr>
+  </thead>
+  <tbody />
+</table>
+`;
